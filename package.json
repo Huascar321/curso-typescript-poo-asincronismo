@@ -1,0 +1,13 @@
+{
+  "name": "typescript-poo-asincronismo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "huascar321 <oxhuascar321@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "ts-node": "^10.8.1"
+  }
+}
